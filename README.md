@@ -14,7 +14,7 @@ Brainstorm Ideas:
 -Power ups may include: Spell Tome to unlock new spells, Health, Skill Boosts
 -Enemies may include: Skeletons, Guard Dogs
 
-Create a schedule or timeline:
+Create a schedule or timeline: We created a timeline in an external program called Lucid Chart
 
 Alpha Goals:
 
@@ -63,4 +63,4 @@ Preferred Communication method: Discord
 
 Frequency of communication: Saturdays and Wedsnsdays
 
-Method for assigning and reporting on specific task items: 
+Method for assigning and reporting on specific task items: We will be using Lucid Chart and GitHub to assign tasks
