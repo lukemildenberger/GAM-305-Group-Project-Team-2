@@ -1,5 +1,7 @@
 Project Log Assignments:
 
+Moduel Two:
+
 Attendants of meeting : Luke Mildenberger, Caity O'Brien, Daniel Yun, Bobby Halpin, Talyx Steele
 
 Items Discussed during meeting:
@@ -61,6 +63,6 @@ Main Menu
 
 Preferred Communication method: Discord
 
-Frequency of communication: Saturdays and Wedsnsdays
+Frequency of communication: Saturdays and Wednesdays
 
 Method for assigning and reporting on specific task items: We will be using Lucid Chart and GitHub to assign tasks
