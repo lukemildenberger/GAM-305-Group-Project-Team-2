@@ -1,68 +1,144 @@
-Project Log Assignments:
+# Project Log Assignment  
+## Module Two
 
-Moduel Two:
+---
 
-Attendants of meeting : Luke Mildenberger, Caity O'Brien, Daniel Yun, Bobby Halpin, Talyx Steele
+## Meeting Information
 
-Items Discussed during meeting:
+**Attendees**
+- Luke Mildenberger  
+- Caity O'Brien  
+- Daniel Yun  
+- Bobby Halpin  
+- Talyx Steele  
 
-Scenario: We chose the 3rd person Scenario
+---
 
-Brainstorm Ideas: 
--Medieval Theme
--Play as a mage
--Takes place in a dungeon
--Boss is in the throne room
--Power ups may include: Spell Tome to unlock new spells, Health, Skill Boosts
--Enemies may include: Skeletons, Guard Dogs
+## Items Discussed During Meeting
 
-Create a schedule or timeline: We created a timeline in an external program called Lucid Chart
+### Scenario Selection
+The team selected the **Third-Person Scenario** for the project.
 
-Alpha Goals:
+### Brainstormed Ideas
+- **Theme:** Medieval
+- **Player Role:** Mage
+- **Setting:** Dungeon environment
+- **Final Boss Location:** Throne Room
 
-Inputs
-E Interact
-Right-Click to range or second spell
-Left-Click Shoot
-Animation to interact with objects
-Camera
-Movement
-WASD
-Space Bar Jump
-Crouch (if needed)
-Player Character
-Projectile Spawn
-Socket for (potential) weapon
-Mage theme
-Start: only have one spell
-Rooms
-5 rooms
-Medieval theme
-Door (lockable/unlockable)
-Search for key
-Dungeon escape room (first room)
-Boss in throne room (last room)
-Powerups/Pickups
-Spell Tome (additional spell)
-Health
-Skill boosts/Upgrade mechanic
-Defense/Strength boosts
-Enemies
-Moving skeletons
-Guard dog to sneak around
-Moving guards?
+**Possible Power-Ups**
+- Spell Tome (unlocks new spells)
+- Health pickups
+- Skill boosts
 
-Beta Goals:
-Player Character
-Model
-Weapon
-Rooms
-Textures
-Lighting
-Main Menu
+**Possible Enemies**
+- Skeletons
+- Guard Dogs
 
-Preferred Communication method: Discord
+---
 
-Frequency of communication: Saturdays and Wednesdays
+## Schedule / Timeline
 
-Method for assigning and reporting on specific task items: We will be using Lucid Chart and GitHub to assign tasks
+The team created a project **timeline using Lucidchart** to organize milestones and development phases.
+
+---
+
+# Alpha Goals
+
+## Player Inputs
+| Action | Key |
+|------|------|
+| Interact | E |
+| Primary Attack | Left Click |
+| Secondary Spell / Ranged | Right Click |
+
+---
+
+## Player Movement
+| Action | Key |
+|------|------|
+| Move | WASD |
+| Jump | Space Bar |
+| Crouch | (If needed) |
+
+---
+
+## Player Character
+- Mage themed character
+- Projectile spawning system
+- Weapon socket (for potential weapon)
+- Start with **one spell**
+
+---
+
+## Camera
+- Third-person camera system
+
+---
+
+## Interactions
+- Animation when interacting with objects
+
+---
+
+## Rooms
+- Total of **5 rooms**
+- Medieval dungeon theme
+- **Lockable / unlockable doors**
+- Key searching mechanic
+- First room: **Dungeon escape room**
+- Final room: **Throne room boss fight**
+
+---
+
+## Power-Ups / Pickups
+- Spell Tome (additional spells)
+- Health
+- Skill upgrade system
+- Defense boosts
+- Strength boosts
+
+---
+
+## Enemies
+- Moving skeleton enemies
+- Guard dogs (sneak mechanic)
+- Potential moving guards
+
+---
+
+# Beta Goals
+
+## Player Character
+- Final character model
+- Weapon model
+
+---
+
+## Rooms
+- Environment textures
+- Lighting improvements
+
+---
+
+## Game Systems
+- Main Menu implementation
+
+---
+
+# Team Communication
+
+**Preferred Communication Method**
+- Discord
+
+**Communication Frequency**
+- Saturdays
+- Wednesdays
+
+---
+
+## Task Assignment & Progress Tracking
+
+The team will use:
+
+- **Lucidchart** – Project planning and timeline  
+- **GitHub** – Task assignment and development tracking
