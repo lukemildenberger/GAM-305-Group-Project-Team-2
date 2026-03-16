@@ -86,6 +86,9 @@ The team created a project **timeline using Lucidchart** to organize milestones 
 - **Lockable / unlockable doors**
 - Key searching mechanic
 - First room: **Dungeon escape room**
+- Second room: //TODO
+- Third room: //TODO
+- Fourth room: //TODO
 - Final room: **Throne room boss fight**
 
 ---
