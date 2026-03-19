@@ -19,7 +19,7 @@
 The team will test objects, levels, and games during programming and as assigned by a different party after development is complete.
 
 **Link to Test Plan Google Sheet**
-<a href="https://docs.google.com/spreadsheets/d/1uXy85b2W5zV6OSRWvNl5JOE5yBfbxAlks-0Gphkp9aw/edit?usp=sharing" target="_blank">Develop Plan</a>
+<a href="https://docs.google.com/spreadsheets/d/1uXy85b2W5zV6OSRWvNl5JOE5yBfbxAlks-0Gphkp9aw/edit?usp=sharing" target="_blank">Go To Test Plan</a>
 
 ## Module Two
 
