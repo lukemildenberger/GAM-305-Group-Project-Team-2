@@ -1,4 +1,26 @@
 # Project Log Assignment  
+## Module Three
+
+---
+
+## Meeting Information
+
+### Wednesday 3/18
+**Attendees**
+- Luke Mildenberger  
+- Caity O'Brien  
+- Daniel Yun  
+- Talyx Steele  
+
+---
+
+## Items Discussed During Meeting
+**Testing**
+The team will test objects, levels, and games during programming and as assigned by a different party after development is complete.
+
+**Link to Test Plan Google Sheet**
+https://docs.google.com/spreadsheets/d/1uXy85b2W5zV6OSRWvNl5JOE5yBfbxAlks-0Gphkp9aw/edit?usp=sharing
+
 ## Module Two
 
 ---
