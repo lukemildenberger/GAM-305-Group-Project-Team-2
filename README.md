@@ -20,6 +20,19 @@ The team will test objects, levels, and games during programming and as assigned
 
 **Link to Test Plan Google Sheet**
 <a href="https://docs.google.com/spreadsheets/d/1uXy85b2W5zV6OSRWvNl5JOE5yBfbxAlks-0Gphkp9aw/edit?usp=sharing" target="_blank">Go To Test Plan</a>
+Includes:
+- Checklist of items to be tested
+- Caity OBrien will keep the test plan updated
+
+**Bug Tracking Plan**
+- Bugs will be reported in the "Issues" tab under the Issue it belongs to and given the "Bug" label
+- Every tester and developer who addresses and/or resolves a bug is responsible for updating the Issue with comments about what was changed to resolve it and will be responsible for removing the "Bug" label
+
+**Play Testing**
+- Play testing will occur during weekly meetings (Wednesdays and Saturdays) and while the developers are writing the code
+- Testing before a demo will occur on the previous Saturday
+- Every Sunday, Caity will ensure the code release demo and the test plan are aligned and assign to another team member for review.
+
 
 ## Module Two
 
