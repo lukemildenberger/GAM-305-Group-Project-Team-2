@@ -5,7 +5,7 @@
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player locomotion including: Walking, Aiming, Jumping, Crouching, and sprinting. Added dynamic crosshair. Added player interaction logic. |
-|Talyx| |Created beginning enemy AI logic.|
+|Talyx|Created beginning enemy AI logic.|
 |Caity|Created primary projectile and secondary projectile. Added health and damage logic to player and enemy. Added health bar in player UI. Created test plan on Google Sheet and updated when needed.|
 |Bobby| |
 |Daniel| |
