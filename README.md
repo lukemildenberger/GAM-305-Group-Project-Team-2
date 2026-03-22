@@ -4,7 +4,7 @@
 ##Project Log
 | Student | Task Completed |
 |---------|----------------|
-|Luke| |
+|Luke|Created player locomotion including: Walking, Aiming, Jumping, Crouching, and sprinting. Added dynamic crosshair. Added player interaction logic. |
 |Talyx| |
 |Caity|Procrastinating|
 |Bobby| |
