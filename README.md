@@ -1,14 +1,15 @@
 # Project Log Assignment  
 ## Module Three
 
-##Project Log
+###Project Log
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player locomotion including: Walking, Aiming, Jumping, Crouching, and sprinting. Added dynamic crosshair. Added player interaction logic. |
 |Talyx|Created beginning enemy AI logic.|
 |Caity|Created primary projectile and secondary projectile. Added health and damage logic to player and enemy. Added health bar in player UI. Created test plan on Google Sheet and updated when needed.|
 |Bobby|Created skeleton king beginnings
-|Daniel| |
+|Daniel|Refactored Issues tab in Github and kept updated throughout week. Started creating guard dog.|
+
 ---
 
 **Test Plan**
@@ -32,6 +33,37 @@
 ## Meeting Information
 
 ---
+
+### Saturday 3/21
+**Attendees**
+- Luke Mildenberger  
+- Caity O'Brien  
+- Daniel Yun  
+- Talyx Steele
+
+---
+
+## Items Discussed During Meeting
+**Game**
+- Finalized plans for each room
+- Completed selection of four additional elements:
+  - Player Power-up Pickups
+    - Health Boost
+    - Defense Boost
+    - Strength Boost
+  - Enemies (Moving)
+    - Roaming Skeletons in Dungeon
+    - Roaming Skeleton Guards in Castle
+  - Enemies (Bosses)
+    - Skeleton King (ideally)
+  - Obstacles (Traps)
+    - Trap Door (can be disabled with puzzle)
+    - Swinging Axe Trap
+
+---
+
+**Student Reporting**
+- Each student will be responsible for reporting his or her own work done during the week in the README.
 
 ### Wednesday 3/18
 **Attendees**
