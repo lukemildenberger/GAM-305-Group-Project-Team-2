@@ -1,7 +1,7 @@
 # Project Log Assignment  
 ## Module Three
 
-###Project Log
+### Project Log
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player locomotion including: Walking, Aiming, Jumping, Crouching, and sprinting. Added dynamic crosshair. Added player interaction logic. |
