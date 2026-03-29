@@ -4,7 +4,7 @@
 ### Project Log
 | Student | Task Completed |
 |---------|----------------|
-|Luke| |
+|Luke|Created player status effects including bleeding and fatigue. Created traps including fatigue liquid, swinging axe, and trap door. |
 |Talyx| |
 |Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and defense bars. Created health, strength, and defense boosts. Added respawn logic.|
 |Bobby| |
@@ -17,11 +17,13 @@
 ---
 
 What parts of the testing process did the team perceive to go well?
+Luke: Bugs were few and far between, and when found they were taken care of swiftly. Screen sharing allowed for everyone to see the bugs being found and collaborate on how to fix them.
 
 How were bugs identified and corrected?
 Caity: Most bugs were identified during development. When a bug was found during testing, it was either immediately corrected or recorded in the TestPlan log.
 
 In terms of the QA and testing process, what would you do differently to improve the process?
+Luke: I would say that we should be more mindful about updating the bug log as we create features instead of doing all of the testing at once. This would help lessen the time spent during meetings.
 
 What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
 Caity: Github was ultimately the main source for assigning items. Our test plan on google sheets was helpful to track the bugs and document their fixes. Discord is our main method of communication and meeting.
@@ -30,6 +32,15 @@ Were there any tools or techniques that you did not find helpful in the success 
 Caity: Lucidchart. After having the main timeline built, we really didn't refer back to it that much (or at least I didn't).
 
 How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+Luke: We wanted to make sure that there was clear communication and effective organization. We wanted to make sure that everyone understood what they were supposed to be doing. These tools have been priceless during the development process. 
+
+
+---
+
+## Alpha Stage Status Assesment
+
+---
+The Alpha stage of the project is completed. We have completed all of the basic game mechanics that we had planned for the alpha release. We have a basic level blockout that will undergo major changes. The alpha level is only intended to demonstrate the funcitonality of the gameplay elements that we have created and does not reflect the final gameplay experience. We are on track for the beta release next week. Now that we have most of our functionality implimented, we will be spending most of this week on level design and polished. This is exactly what we discussed doing in our early meetings.
 
 ---
 
