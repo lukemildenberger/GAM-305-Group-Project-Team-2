@@ -1,25 +1,26 @@
 {
-	"FileVersion": 3,
-	"EngineAssociation": "5.7",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "GAM305_Team2",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		}
-	]
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "GAM305_Team2",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "VisualStudioTools",
+      "Enabled": false,
+      "SupportedTargetPlatforms": [
+        "Win64"
+      ]
+    }
+  ],
+  "TargetPlatforms": [],
+  "AdditionalRootDirectories": [],
+  "AdditionalPluginDirectories": [],
+  "EpicSampleNameHash": ""
 }
