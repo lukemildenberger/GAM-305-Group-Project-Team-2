@@ -8,7 +8,7 @@
 |Talyx| |
 |Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and defense bars. Created health, strength, and defense boosts. Added respawn logic.|
 |Bobby| |
-|Daniel| |
+|Daniel| Modeling the Guard Dog in Maya, creating the rig, animating a walking cycle, and implementing AI in Blueprints for patrol behavior and running toward the character when detected.|
 
 ---
 
