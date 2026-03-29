@@ -5,7 +5,7 @@
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player status effects including bleeding and fatigue. Created traps including fatigue liquid, swinging axe, and trap door. |
-|Talyx| |
+|Talyx|Created enemy health bar. Added functionality so that the health bar only appears once the enemy has taken damage. Began working on the skelton's skeletal mesh and animations. |
 |Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and defense bars. Created health, strength, and defense boosts. Added respawn logic.|
 |Bobby| |
 |Daniel| Modeling the Guard Dog in Maya, creating the rig, animating a walking cycle, and implementing AI in Blueprints for patrol behavior and running toward the character when detected.|
