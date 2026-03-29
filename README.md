@@ -4,7 +4,7 @@
 ### Project Log
 | Student | Task Completed |
 |---------|----------------|
-|Luke| |
+|Luke|Created player status effects including bleeding and fatigue. Created traps including fatigue liquid, swinging axe, and trap door. |
 |Talyx| |
 |Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and defense bars. Created health, strength, and defense boosts. Added respawn logic.|
 |Bobby| |
@@ -17,6 +17,7 @@
 ---
 
 What parts of the testing process did the team perceive to go well?
+Luke: Bugs were few and far between, and when found they were taken care of swiftly. Screen sharing allowed for everyone to see the bugs being found and collaborate on how to fix them.
 
 How were bugs identified and corrected?
 Caity: Most bugs were identified during development. When a bug was found during testing, it was either immediately corrected or recorded in the TestPlan log.
