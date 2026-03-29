@@ -35,7 +35,11 @@ How did the team approach to the initial analysis of the game design document co
 Luke: We wanted to make sure that there was clear communication and effective organization. We wanted to make sure that everyone understood what they were supposed to be doing. These tools have been priceless during the development process. 
 
 
-Alpha Stage Status Assesment
+---
+
+## Alpha Stage Status Assesment
+
+---
 The Alpha stage of the project is completed. We have completed all of the basic game mechanics that we had planned for the alpha release. We have a basic level blockout that will undergo major changes. The alpha level is only intended to demonstrate the funcitonality of the gameplay elements that we have created and does not reflect the final gameplay experience. We are on track for the beta release next week. Now that we have most of our functionality implimented, we will be spending most of this week on level design and polished. This is exactly what we discussed doing in our early meetings.
 
 ---
