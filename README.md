@@ -6,21 +6,28 @@
 |---------|----------------|
 |Luke| |
 |Talyx| |
-|Caity| |
+|Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and boost bars. Created health, strength, and defense boosts. Added respawn logic.|
 |Bobby| |
 |Daniel| |
+
+---
+
+## Team Reflection
 
 ---
 
 What parts of the testing process did the team perceive to go well?
 
 How were bugs identified and corrected?
+Caity: Most bugs were identified during development. When a bug was found during testing, it was either immediately corrected or recorded in the TestPlan log.
 
 In terms of the QA and testing process, what would you do differently to improve the process?
 
 What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+Caity: Github was ultimately the main source for assigning items. Our test plan on google sheets was helpful to track the bugs and document their fixes. Discord is our main method of communication and meeting.
 
 Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+Caity: Lucidchart. After having the main timeline built, we really didn't refer back to it that much (or at least I didn't).
 
 How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 
@@ -30,9 +37,29 @@ How did the team approach to the initial analysis of the game design document co
 
 ---
 
-### Wednesday 3/28
+### Saturday 3/28
+**Attendees**
+- Luke Mildenberger  
+- Caity O'Brien  
+- Daniel Yun
+- Bobby Halpin  
+- Talyx Steele
 
+---
 
+### Items discussed during meeting:
+- Conducted some testing by one person sharing their screen
+
+- Decided that everyone will take a room to build:
+  - Talyx: Room One - Dungeon
+  - Luke: Room Two - Trap/Puzzle Room
+  - Caity: Room Three - Courtyard
+  - Daniel: Room Four - Guard Dog room
+  - Bobby: Room Five - Final Boss Room/Throne Room
+
+- Checked in to see if everyone was comfortable with the progress we currently have being sufficient for the Alpha. All said yes.
+
+- Need to build a level for the Alpha Demo.
 
 ---
 
