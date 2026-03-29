@@ -6,7 +6,7 @@
 |---------|----------------|
 |Luke| |
 |Talyx| |
-|Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and boost bars. Created health, strength, and defense boosts. Added respawn logic.|
+|Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and defense bars. Created health, strength, and defense boosts. Added respawn logic.|
 |Bobby| |
 |Daniel| |
 
