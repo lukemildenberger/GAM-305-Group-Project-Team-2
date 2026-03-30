@@ -16,8 +16,8 @@
 
 ---
 
-What parts of the testing process did the team perceive to go well?
-Luke: Bugs were few and far between, and when found they were taken care of swiftly. Screen sharing allowed for everyone to see the bugs being found and collaborate on how to fix them.
+What parts of the testing process did the team perceive to go well?  
+Luke: Bugs were few and far between, and when found they were taken care of swiftly. Screen sharing allowed for everyone to see the bugs being found and collaborate on how to fix them.  
 Bobby: Finding and correcting bugs. The communication on what was and wasn't working helped made sure they got fixed.
 
 How were bugs identified and corrected?
