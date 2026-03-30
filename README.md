@@ -36,6 +36,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 
 Luke: Bugs were few and far between, and when found they were taken care of swiftly. Screen sharing allowed for everyone to see the bugs being found and collaborate on how to fix them.  
 Bobby: Finding and correcting bugs. The communication on what was and wasn't working helped made sure they got fixed.
+Talyx: Screen sharing of the game not only allowed for everyone to see bugs as they were found in real time, but it allowed for each member of the team the opportunity to present their thoughts on the bug. Regular meetings have also helped in the form of testing as we are regularly communicating with each other.
 
 **How were bugs identified and corrected?**  
 
@@ -50,6 +51,7 @@ Caity: I agree. Keeping the bug log updated with new features was more difficult
 **What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?**  
 
 Caity: Github was ultimately the main source for assigning items. Our test plan on google sheets was helpful to track the bugs and document their fixes. Discord is our main method of communication and meeting.  
+Talyx: The use of Discord has been extremely helpful for meetings as it allows a way to screen share for meetings while also providing a constant means of communication between team members. 
 
 **Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**  
 
