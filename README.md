@@ -5,14 +5,14 @@
 *  [Intro](#introduction)
 *  [Module Two](#module-two)
 *  [Module Three](#module-three)
-    *  [Project Log](#project-log)
+    *  [Project Log](#mod-three-project-log)
 *  [Module Four](#module-four)
-    *  [Project Log](#project-log)
+    *  [Project Log](#mod-four-project-log)
     *  [Team Reflection](#team-reflection)
     *  [Alpha Stage](#alpha-stage-status-assesment)
     *  [Meeting Info](#meeting-information)
 *  [Module Five](#module-five)
-    *  [Project Log](#project-log)
+    *  [Project Log](#mod-five-project-log)
     *  [Meeting Info](#meeting-information)
 
 ## Introduction  
@@ -23,7 +23,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 
 ## Module Five
 
-### Project Log
+### Mod Five Project Log
 | Student | Task Completed|
 |---------|---------------|
 | Luke | |
@@ -42,7 +42,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 
 ## Module Four
 
-### Project Log
+### Mod Four Project Log
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player status effects including bleeding and fatigue. Created traps including fatigue liquid, swinging axe, and trap door. |
@@ -129,7 +129,7 @@ The Alpha stage of the project is completed. We have completed all of the basic 
 
 ## Module Three
 
-### Project Log
+### Mod Three Project Log
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player locomotion including: Walking, Aiming, Jumping, Crouching, and sprinting. Added dynamic crosshair. Added player interaction logic. |
