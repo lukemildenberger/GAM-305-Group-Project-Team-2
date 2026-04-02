@@ -1,14 +1,99 @@
 # Project Log Assignment  
+## Table of Contents
+**Link to Test Plan Google Sheet:**
+<a href="https://docs.google.com/spreadsheets/d/1uXy85b2W5zV6OSRWvNl5JOE5yBfbxAlks-0Gphkp9aw/edit?usp=sharing" target="_blank">Go To Test Plan</a>  
+*  [Intro](#introduction)
+*  [Module Two](#module-two)
+*  [Module Three](#module-three)
+    *  [Project Log](#mod-three-project-log)
+*  [Module Four](#module-four)
+    *  [Project Log](#mod-four-project-log)
+    *  [Team Reflection](#team-reflection)
+    *  [Alpha Stage](#alpha-stage-status-assesment)
+    *  [Meeting Info](#meeting-information)
+*  [Module Five](#module-five)
+    *  [Project Log](#mod-five-project-log)
+    *  [Meeting Info](#meeting-information)
+
+## Introduction  
+### Our Game  
+Our game is a third-person medieval period style dungeon crawler where the player must navigate a total of 5 rooms and fight the final boss. They will need to solve puzzles, navigate traps, and fight enemies in order to escape the Tyrannical Skeleton King who died long ago but refuses to let go of his kingdom.  
+
+---
+
+## Module Five
+
+### Mod Five Project Log
+| Student | Task Completed|
+|---------|---------------|
+| Luke | |
+| Talyx | |
+| Caity | |
+| Bobby | |
+| Daniel | |
+
+---
+
+## Meeting Information
+
+### Saturday 4/4
+
+---
+
 ## Module Four
 
-### Project Log
+### Mod Four Project Log
 | Student | Task Completed |
 |---------|----------------|
-|Luke| |
-|Talyx| |
-|Caity| |
-|Bobby| |
-|Daniel| |
+|Luke|Created player status effects including bleeding and fatigue. Created traps including fatigue liquid, swinging axe, and trap door. |
+|Talyx|Created enemy health bar. Added functionality so that the health bar only appears once the enemy has taken damage. Began working on the skelton's skeletal mesh and animations. |
+|Caity|Completed outlining logic. Created Door and Key blueprints. Revamped the health bar and added strength and defense bars. Created health, strength, and defense boosts. Added respawn logic.|
+|Bobby|Continued boss development, and planned for Throne Room develpoment.|
+|Daniel| Modeling the Guard Dog in Maya, creating the rig, animating a walking cycle, and implementing AI in Blueprints for patrol behavior and running toward the character when detected.|
+
+---
+
+## Team Reflection
+
+---
+
+**What parts of the testing process did the team perceive to go well?**  
+
+Luke: Bugs were few and far between, and when found they were taken care of swiftly. Screen sharing allowed for everyone to see the bugs being found and collaborate on how to fix them.  
+Bobby: Finding and correcting bugs. The communication on what was and wasn't working helped made sure they got fixed.
+Talyx: Screen sharing of the game not only allowed for everyone to see bugs as they were found in real time, but it allowed for each member of the team the opportunity to present their thoughts on the bug. Regular meetings have also helped in the form of testing as we are regularly communicating with each other.
+
+**How were bugs identified and corrected?**  
+
+Caity: Most bugs were identified during development. When a bug was found during testing, it was either immediately corrected or recorded in the TestPlan log.   
+Bobby: Trial and error. When there was a bug it was fixed promptly.  
+
+**In terms of the QA and testing process, what would you do differently to improve the process?**  
+
+Luke: I would say that we should be more mindful about updating the bug log as we create features instead of doing all of the testing at once. This would help lessen the time spent during meetings.  
+Caity: I agree. Keeping the bug log updated with new features was more difficult than I anticipated but if we add as we go, it should help alleviate that issue.  
+
+**What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?**  
+
+Caity: Github was ultimately the main source for assigning items. Our test plan on google sheets was helpful to track the bugs and document their fixes. Discord is our main method of communication and meeting.  
+Talyx: The use of Discord has been extremely helpful for meetings as it allows a way to screen share for meetings while also providing a constant means of communication between team members. 
+
+**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**  
+
+Caity: Lucidchart. After having the main timeline built, we really didn't refer back to it that much (or at least I didn't).  
+Bobby: I agree the Lucidchart was something I did not use or look back at. The breakdown of each week and the due dates of assignments made it unnecessary.  
+
+**How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?**  
+
+Luke: We wanted to make sure that there was clear communication and effective organization. We wanted to make sure that everyone understood what they were supposed to be doing. These tools have been priceless during the development process.  
+Caity: Everyone on the team has been open and honest with their opinions on using these tools which has helped tremendously with keeping our project organized. We always know what to do for the upcoming week which I think is top-tier teamwork!  
+
+---
+
+## Alpha Stage Status Assesment
+
+---
+The Alpha stage of the project is completed. We have completed all of the basic game mechanics that we had planned for the alpha release. We have a basic level blockout that will undergo major changes. The alpha level is only intended to demonstrate the funcitonality of the gameplay elements that we have created and does not reflect the final gameplay experience. We are on track for the beta release next week. Now that we have most of our functionality implimented, we will be spending most of this week on level design and polished. This is exactly what we discussed doing in our early meetings.
 
 ---
 
@@ -16,15 +101,35 @@
 
 ---
 
-### Wednesday 3/25
+### Saturday 3/28
+**Attendees**
+- Luke Mildenberger  
+- Caity O'Brien  
+- Daniel Yun
+- Bobby Halpin  
+- Talyx Steele
 
+---
 
+### Items discussed during meeting:
+- Conducted some testing by one person sharing their screen
+
+- Decided that everyone will take a room to build:
+  - Talyx: Room One - Dungeon
+  - Luke: Room Two - Trap/Puzzle Room
+  - Caity: Room Three - Courtyard
+  - Daniel: Room Four - Guard Dog room
+  - Bobby: Room Five - Final Boss Room/Throne Room
+
+- Checked in to see if everyone was comfortable with the progress we currently have being sufficient for the Alpha. All said yes.
+
+- Need to build a level for the Alpha Demo.
 
 ---
 
 ## Module Three
 
-### Project Log
+### Mod Three Project Log
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player locomotion including: Walking, Aiming, Jumping, Crouching, and sprinting. Added dynamic crosshair. Added player interaction logic. |
