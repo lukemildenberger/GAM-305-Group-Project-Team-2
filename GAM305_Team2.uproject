@@ -21,10 +21,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "UnrealMCP",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [],
