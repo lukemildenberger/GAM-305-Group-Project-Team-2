@@ -13,6 +13,7 @@
     *  [Meeting Info](#meeting-information)
 *  [Module Five](#module-five)
     *  [Project Log](#mod-five-project-log)
+    *  [Team Reflection] (#module-five-project-log-team-reflection)
     *  [Meeting Info](#meeting-information)
 
 ## Introduction  
@@ -31,6 +32,24 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 | Caity | |
 | Bobby | |
 | Daniel | |
+
+---
+
+### Module Five Project Log - Team Reflection. 
+
+
+What parts of the plan did the team perceive to go well in relation to the last stage evaluation?  
+
+
+What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?  
+
+How were the previous evaluations integrated into this latest stage?  
+
+What would you do differently to improve the collaboration or development process?  
+
+Were there any tools or techniques that you did not find helpful in the success of your project development? Why?  
+
+Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.  
 
 ---
 
