@@ -13,7 +13,7 @@
     *  [Meeting Info](#meeting-information)
 *  [Module Five](#module-five)
     *  [Project Log](#mod-five-project-log)
-    *  [Team Reflection] (#module-five-project-log---team-reflection)
+    *  [Team Reflection](#module-five-project-log---team-reflection)
     *  [Meeting Info](#meeting-information)
 
 ## Introduction  
@@ -35,7 +35,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 
 ---
 
-### Module Five Project Log - Team Reflection. 
+### Module Five Project Log - Team Reflection  
 
 
 What parts of the plan did the team perceive to go well in relation to the last stage evaluation?  
