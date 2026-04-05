@@ -29,7 +29,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 |---------|---------------|
 | Luke | |
 | Talyx | |
-| Caity | |
+| Caity | Created courtyard level. Updated readme when needed. |
 | Bobby | |
 | Daniel | |
 
@@ -42,12 +42,16 @@ What parts of the plan did the team perceive to go well in relation to the last 
 Luke: All of the planned functionality is in the game, and we are on track for the Beta Release. I think we've done well at organizing ourselves during the development process. Each team member had assignments, and those assignments were built upon during later weeks. For example, I was responsible for creating the traps last week, and this week I was responsible for making a room full of traps. Dividing the game into different elements and then having each team member continue working on pieces that related to their previously worked on elements has worked well. There wasn't much time wasted learning other peoples code because, for the most part, each team member was working with the code that they wrote.
 
 What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?  
+Caity: I was stricken with a migraine on Saturday and unable to meet or do any work :( otherwise, not much seems to have gone wrong since we all knew what we needed to do and we're dependent on others for assistance.
 
 How were the previous evaluations integrated into this latest stage?  
+Caity: Previous evaluations were that people would continue to build onto what they have already created and that is what was integrated into next week.  
 
 What would you do differently to improve the collaboration or development process?  
+Caity: Overall, our collaboration has been going very well, though, I would say it's been slightly difficult to get everyone together at the same time. To improve this process, using a calendar where we could schedule meetings and have those reminders sent to everyone would be helpful.  
 
 Were there any tools or techniques that you did not find helpful in the success of your project development? Why?  
+Caity: We did not use LucidChart at all but that was to be expected since we didn't use it last week. It's also been difficult to keep up with the Test Plan sheet; not because we're not testing, but because most of the testing is done during development and seemingly most have pushed in clean code.
 
 Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.  
 
@@ -56,6 +60,21 @@ Identify the completed stage of development of the intended Beta and address the
 ## Meeting Information
 
 ### Saturday 4/4
+**Attendees**
+Luke Mildenberger
+Bobby Halpin
+Talyx Steele
+
+---
+
+### Items Discussed During Meeting:
+**This Week**
+- Finishing up rooms and reminding for contributions to the team reflection
+
+**Next Week**
+- Everyone will play test on Monday 4/5 with a stop watch running
+- Story to go with the theme needs to be created. Caity volunteered.
+- Discussed the remaining tasks to be completed so everyone is aware of what needs to be done by the final release.
 
 ---
 
