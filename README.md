@@ -39,7 +39,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 
 
 What parts of the plan did the team perceive to go well in relation to the last stage evaluation?  
-
+Luke: All of the planned functionality is in the game, and we are on track for the Beta Release. I think we've done well at organizing ourselves during the development process. Each team member had assignments, and those assignments were built upon during later weeks. For example, I was responsible for creating the traps last week, and this week I was responsible for making a room full of traps. Dividing the game into different elements and then having each team member continue working on pieces that related to their previously worked on elements has worked well. There wasn't much time wasted learning other peoples code because, for the most part, each team member was working with the code that they wrote.
 
 What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?  
 
