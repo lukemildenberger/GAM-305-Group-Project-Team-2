@@ -5,9 +5,16 @@
 *  [Intro](#introduction)
 *  [Module Two](#module-two)
 *  [Module Three](#module-three)
+    *  [Project Log](#mod-three-project-log)
 *  [Module Four](#module-four)
+    *  [Project Log](#mod-four-project-log)
     *  [Team Reflection](#team-reflection)
     *  [Alpha Stage](#alpha-stage-status-assesment)
+    *  [Meeting Info](#meeting-information)
+*  [Module Five](#module-five)
+    *  [Project Log](#mod-five-project-log)
+    *  [Team Reflection] (#module-five-project-log-team-reflection)
+    *  [Meeting Info](#meeting-information)
 
 ## Introduction  
 ### Our Game  
@@ -15,9 +22,46 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 
 ---
 
+## Module Five
+
+### Mod Five Project Log
+| Student | Task Completed|
+|---------|---------------|
+| Luke | |
+| Talyx | |
+| Caity | |
+| Bobby | |
+| Daniel | |
+
+---
+
+### Module Five Project Log - Team Reflection. 
+
+
+What parts of the plan did the team perceive to go well in relation to the last stage evaluation?  
+Luke: All of the planned functionality is in the game, and we are on track for the Beta Release. I think we've done well at organizing ourselves during the development process. Each team member had assignments, and those assignments were built upon during later weeks. For example, I was responsible for creating the traps last week, and this week I was responsible for making a room full of traps. Dividing the game into different elements and then having each team member continue working on pieces that related to their previously worked on elements has worked well. There wasn't much time wasted learning other peoples code because, for the most part, each team member was working with the code that they wrote.
+
+What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?  
+
+How were the previous evaluations integrated into this latest stage?  
+
+What would you do differently to improve the collaboration or development process?  
+
+Were there any tools or techniques that you did not find helpful in the success of your project development? Why?  
+
+Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.  
+
+---
+
+## Meeting Information
+
+### Saturday 4/4
+
+---
+
 ## Module Four
 
-### Project Log
+### Mod Four Project Log
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player status effects including bleeding and fatigue. Created traps including fatigue liquid, swinging axe, and trap door. |
@@ -104,7 +148,7 @@ The Alpha stage of the project is completed. We have completed all of the basic 
 
 ## Module Three
 
-### Project Log
+### Mod Three Project Log
 | Student | Task Completed |
 |---------|----------------|
 |Luke|Created player locomotion including: Walking, Aiming, Jumping, Crouching, and sprinting. Added dynamic crosshair. Added player interaction logic. |
