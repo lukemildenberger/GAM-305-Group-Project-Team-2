@@ -28,7 +28,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 | Student | Task Completed|
 |---------|---------------|
 | Luke | |
-| Talyx | |
+| Talyx | Created dungeon room. Added a very basic attack for the enemy to apply damage to the player (needs improved). |
 | Caity | Created courtyard level. Updated readme when needed. |
 | Bobby | |
 | Daniel | |
@@ -48,7 +48,8 @@ How were the previous evaluations integrated into this latest stage?
 Caity: Previous evaluations were that people would continue to build onto what they have already created and that is what was integrated into next week.  
 
 What would you do differently to improve the collaboration or development process?  
-Caity: Overall, our collaboration has been going very well, though, I would say it's been slightly difficult to get everyone together at the same time. To improve this process, using a calendar where we could schedule meetings and have those reminders sent to everyone would be helpful.  
+Caity: Overall, our collaboration has been going very well, though, I would say it's been slightly difficult to get everyone together at the same time. To improve this process, using a calendar where we could schedule meetings and have those reminders sent to everyone would be helpful.
+Talyx: I agree that it has been difficult to get everyone together at the same time, but I do think that the use of discord has been very helpful in building a strong communication channel that allows people to read and respond to each other as they have availability. 
 
 Were there any tools or techniques that you did not find helpful in the success of your project development? Why?  
 Caity: We did not use LucidChart at all but that was to be expected since we didn't use it last week. It's also been difficult to keep up with the Test Plan sheet; not because we're not testing, but because most of the testing is done during development and seemingly most have pushed in clean code.
