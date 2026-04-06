@@ -27,7 +27,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 ### Mod Five Project Log
 | Student | Task Completed|
 |---------|---------------|
-| Luke | |
+| Luke |Created trap room. Compiled other team members rooms into Beta level. |
 | Talyx | Created dungeon room. Added a very basic attack for the enemy to apply damage to the player (needs improved). |
 | Caity | Created courtyard level. Updated readme when needed. |
 | Bobby | Created throne room. Continued development needed.
