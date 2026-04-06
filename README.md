@@ -30,7 +30,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 | Luke | |
 | Talyx | Created dungeon room. Added a very basic attack for the enemy to apply damage to the player (needs improved). |
 | Caity | Created courtyard level. Updated readme when needed. |
-| Bobby | |
+| Bobby | Created throne room. Continued development needed.
 | Daniel | |
 
 ---
@@ -43,9 +43,11 @@ Luke: All of the planned functionality is in the game, and we are on track for t
 
 What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?  
 Caity: I was stricken with a migraine on Saturday and unable to meet or do any work :( otherwise, not much seems to have gone wrong since we all knew what we needed to do and we're dependent on others for assistance.
+Bobby: I do not believe we had anything that went wrong in the previous week of work. Things have progressed well.
 
 How were the previous evaluations integrated into this latest stage?  
-Caity: Previous evaluations were that people would continue to build onto what they have already created and that is what was integrated into next week.  
+Caity: Previous evaluations were that people would continue to build onto what they have already created and that is what was integrated into next week.
+Bobby: We just went over what we have been doing and continued improve upon that.
 
 What would you do differently to improve the collaboration or development process?  
 Caity: Overall, our collaboration has been going very well, though, I would say it's been slightly difficult to get everyone together at the same time. To improve this process, using a calendar where we could schedule meetings and have those reminders sent to everyone would be helpful.
