@@ -32,7 +32,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 
 | Student | Task Completed|
 |---------|---------------|
-| Luke | |
+| Luke |Added staff to player model. Added power ups scattered throughout my room. Added spike trap. Added spike log obstacle. Added riddle room and riddle hint. Made my room longer. Added duration on bleeding effect. Changed camera tracking by using a spring arm. Made it so that fatigue status effect only lasts while the player is in the magic green liquid, |
 | Talyx | |
 | Caity | |
 | Bobby | |
