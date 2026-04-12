@@ -41,7 +41,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 ### Module Six Project Log - Team Reflection  
 
 - What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-  Luke: We had a lot of minor features and fixes to impliment this week. Finishing up a game can feel overwhelming, because all of the small finishing touches that we had been putting off needed to be implimented by the end of the week. I think that we did a really good job communicating and making sure that all of the features were assigned to team members. We evaluated every tiny dtail that still needed to be worked on and made sure that they all had an assigned team member to address them.
+  Luke: We had a lot of minor features and fixes to impliment this week. Finishing up a game felt overwhelming, because all of the small finishing touches that we had been putting off needed to be implimented by the end of the week. I think that we did a really good job communicating and making sure that all of the features were assigned to team members. We evaluated every tiny dtail that still needed to be worked on and made sure that they all had an assigned team member to address them.
 
 - What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 
