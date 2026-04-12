@@ -8,19 +8,71 @@
     *  [Project Log](#mod-three-project-log)
 *  [Module Four](#module-four)
     *  [Project Log](#mod-four-project-log)
-    *  [Team Reflection](#team-reflection)
+    *  [Team Reflection](#module-four-project-log---team-reflection)
     *  [Alpha Stage](#alpha-stage-status-assesment)
-    *  [Meeting Info](#meeting-information)
+    *  [Meeting Info](#mod-four-meeting-information)
 *  [Module Five](#module-five)
     *  [Project Log](#mod-five-project-log)
     *  [Team Reflection](#module-five-project-log---team-reflection)
-    *  [Meeting Info](#meeting-information)
+    *  [Meeting Info](#mod-five-meeting-information)
+ *  [Module Six](#module-six)
+    *  [Student Task Log](#Module-Six-Student-Task-Log)
+    *  [Team Reflection](#module-six-project-log---team-reflection)
+    *  [Meeting Information](#Mod-Six-Meeting-Information)
 
 ## Introduction  
 ### Our Game  
 Our game is a third-person medieval period style dungeon crawler where the player must navigate a total of 5 rooms and fight the final boss. They will need to solve puzzles, navigate traps, and fight enemies in order to escape the Tyrannical Skeleton King who died long ago but refuses to let go of his kingdom.  
 
 ---
+
+## Module Six
+
+### Module Six Student Task Log  
+
+| Student | Task Completed|
+|---------|---------------|
+| Luke | |
+| Talyx | |
+| Caity | |
+| Bobby | |
+| Daniel | |
+
+### Module Six Project Log - Team Reflection  
+
+- What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+
+- What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+
+- How were the previous evaluations integrated into this latest stage?
+
+- What would you do differently to improve the collaboration or development process?
+
+- Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+---
+
+### Mod Six Meeting Information
+
+Saturday 4/11
+**Attendees**
+Caity OBrien
+Luke Mildenberger
+
+**Items Discussed**
+- Main menu completion  
+- Luke will update projectiles with anims
+- Talyx to decide if using anims on the skeletons will work or if making a simpler ghost type enemy would be better
+
+Wednesday 4/8
+**Attendees**
+Caity OBrien
+Luke Mildenberger
+Talyx Steele
+Daniel Yun
+
+**Items Discussed**  
+- We used this time as a working session
 
 ## Module Five
 
@@ -70,7 +122,7 @@ Caity: We've completed the Beta stage of the project. This stage consisted of cr
 
 ---
 
-## Meeting Information
+## Mod Five Meeting Information
 
 ### Saturday 4/4
 **Attendees**
@@ -104,7 +156,7 @@ Talyx Steele
 
 ---
 
-## Team Reflection
+## Module Four Project Log - Team Reflection
 
 ---
 
@@ -148,7 +200,7 @@ The Alpha stage of the project is completed. We have completed all of the basic 
 
 ---
 
-## Meeting Information
+## Mod Four Meeting Information
 
 ---
 
