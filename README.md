@@ -36,7 +36,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 | Talyx |Attempted to get animations working for the skeleton enemy. Ended up shifting to a ghost enemy instead. |
 | Caity | Created main menu and pause menu. Completed Courtyard Level. Added widgets that tells the player they don't have the special ability, when they get the special ability, when they are fatigued, when they are bleeding. Fixed door BP so that only one key works on one door and added the interaction prompt. Added a widget that appears when the player tries to open the door but does not have the right key. |
 | Bobby | skeleton king
-| Daniel | |
+| Daniel | Guard Dog roaming animation, attack animation toward the player, and map completion using those.|
 
 ### Module Six Project Log - Team Reflection  
 
