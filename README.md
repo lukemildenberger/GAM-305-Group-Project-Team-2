@@ -34,7 +34,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 |---------|---------------|
 | Luke |Added staff to player model. Added power ups scattered throughout my room. Added spike trap. Added spike log obstacle. Added riddle room and riddle hint. Made my room longer. Added duration on bleeding effect. Changed camera tracking by using a spring arm. Made it so that fatigue status effect only lasts while the player is in the magic green liquid, |
 | Talyx | |
-| Caity | |
+| Caity | Created main menu and pause menu. Completed Courtyard Level. Added widgets that tells the player they don't have the special ability, when they get the special ability, when they are fatigued, when they are bleeding. Fixed door BP so that only one key works on one door and added the interaction prompt. Added a widget that appears when the player tries to open the door but does not have the right key. |
 | Bobby | |
 | Daniel | |
 
