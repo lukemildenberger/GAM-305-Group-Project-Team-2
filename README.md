@@ -97,7 +97,7 @@ Daniel Yun
 | Talyx | Created dungeon room. Added a very basic attack for the enemy to apply damage to the player (needs improved). |
 | Caity | Created courtyard level. Updated readme when needed. |
 | Bobby | Created throne room. Continued development needed.
-| Daniel | |
+| Daniel | Guard Dog roaming animation, attack animation toward the player, and map completion using those.|
 
 ---
 
