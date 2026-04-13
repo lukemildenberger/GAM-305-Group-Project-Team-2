@@ -33,7 +33,7 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 | Student | Task Completed|
 |---------|---------------|
 | Luke |Added staff to player model. Added power ups scattered throughout my room. Added spike trap. Added spike log obstacle. Added riddle room and riddle hint. Made my room longer. Added duration on bleeding effect. Changed camera tracking by using a spring arm. Made it so that fatigue status effect only lasts while the player is in the magic green liquid, |
-| Talyx | |
+| Talyx |Attempted to get animations working for the skeleton enemy. Ended up shifting to a ghost enemy instead. |
 | Caity | Created main menu and pause menu. Completed Courtyard Level. Added widgets that tells the player they don't have the special ability, when they get the special ability, when they are fatigued, when they are bleeding. Fixed door BP so that only one key works on one door and added the interaction prompt. Added a widget that appears when the player tries to open the door but does not have the right key. |
 | Bobby | skeleton king
 | Daniel | |
@@ -51,12 +51,18 @@ Caity: We didn't have as much time for thorough testing as we had hoped.
 - How were the previous evaluations integrated into this latest stage?
 
 Luke: During the last evaluation, we had to make some tough decisions about some minor features. There were some planned features that didn't end up making it into the game such as the staff being part of the spell upgrade. Sometimes, cuts are an important part of meeting deadlines. These decisions had to be made on the fly so that development could continue. Fast paced decisions about whether or not a feature is absolutely necessary are stressful, but an important part of developing a game in a team environment. I think that all of us did a good job communicating quickly and effectively when discussing what features to cut from the game so we could be ready for submission.
+
+Talyx: Adding to Luke's point. The idea of skeleton enemies was uprooted last minute due to my inability to get animations working for the skeleton. The decision to transition to a ghost enemy was made to ensure fully functional enemies were present.
   
 - What would you do differently to improve the collaboration or development process?  
-Bobby: I would have communicated to ensure that I was doing what was needed, and what the team needed.  
+Bobby: I would have communicated to ensure that I was doing what was needed, and what the team needed.
+
+ Talyx: I feel as though the whole team worked together well, but one thing that I would have done differently that would have assisted me in the development process would be limit myself to only one class for this term. Towards the end I struggled to find time to complete everything. I spent countless hours attempting to get animations to work for the skeleton enemy, and these hours were squeezed into an already tight schedule of work, cattle, personal life, and my other coursework. Limiting myself to only this class would have lowered my workload tremendously alleviating some of the stress of such a tight production schedule.
 
 - Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 Bobby: Did not use the lucid chart. It was not needed since we knew what to work on.
+
+Talyx: I attempted to utilize Blender to create animations for the skeleton skeletal mesh, but due to the tight schedule I was unable to make any progress with this tool. I was trying to learn how to create animations while also trying to learn a new tool all at the same time.
 
 ---
 
