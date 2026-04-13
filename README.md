@@ -41,18 +41,22 @@ Our game is a third-person medieval period style dungeon crawler where the playe
 ### Module Six Project Log - Team Reflection  
 
 - What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-  Luke: We had a lot of minor features and fixes to impliment this week. Finishing up our game felt overwhelming, because all of the small finishing touches that we had been putting off needed to be implimented by the end of the week. I think that we did a really good job communicating and making sure that all of the features were assigned to team members. We evaluated every tiny dtail that still needed to be worked on and made sure that they all had an assigned team member to address them.
+
+Luke: We had a lot of minor features and fixes to impliment this week. Finishing up our game felt overwhelming, because all of the small finishing touches that we had been putting off needed to be implimented by the end of the week. I think that we did a really good job communicating and making sure that all of the features were assigned to team members. We evaluated every tiny dtail that still needed to be worked on and made sure that they all had an assigned team member to address them.
 
 - What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation? 
 
+Caity: We didn't have as much time for thorough testing as we had hoped.
+
 - How were the previous evaluations integrated into this latest stage?
-   Luke: During the last evaluation, we had to make some tough decisions about some minor features. There were some planned features that didn't end up making it into the game such as the staff being part of the spell upgrade. Sometimes, cuts are an important part of meeting deadlines. These decisions had to be made on the fly so that development could continue. Fast paced decisions about whether or not a feature is absolutely necessary are stressful, but an important part of developing a game in a team environment. I think that all of us did a good job communicating quickly and effectively when discussing what features to cut from the game so we could be ready for submission.
+
+Luke: During the last evaluation, we had to make some tough decisions about some minor features. There were some planned features that didn't end up making it into the game such as the staff being part of the spell upgrade. Sometimes, cuts are an important part of meeting deadlines. These decisions had to be made on the fly so that development could continue. Fast paced decisions about whether or not a feature is absolutely necessary are stressful, but an important part of developing a game in a team environment. I think that all of us did a good job communicating quickly and effectively when discussing what features to cut from the game so we could be ready for submission.
   
-- What would you do differently to improve the collaboration or development process?
-- Bobby: I would have communicated to ensure that I was doing what was needed, and what the team needed.   
+- What would you do differently to improve the collaboration or development process?  
+Bobby: I would have communicated to ensure that I was doing what was needed, and what the team needed.  
 
 - Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-- Bobby: Did not use the lucid chart. It was not needed since we knew what to work on.
+Bobby: Did not use the lucid chart. It was not needed since we knew what to work on.
 
 ---
 
